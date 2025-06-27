@@ -1,0 +1,17 @@
+body{
+    font-family: 'constantia';
+}
+
+table{
+    background: #87ceeb ;
+    border-radius:4%;
+}
+
+h1{
+    text-align: center;
+}
+
+tr{
+    color:rgb(161, 10, 10);
+}
+
