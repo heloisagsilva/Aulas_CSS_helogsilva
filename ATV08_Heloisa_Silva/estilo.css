@@ -1,0 +1,28 @@
+.header{
+    background-color: yellow;
+    height: 150px;
+    border: 2px solid black;
+}
+
+.link{
+    background-color: lightblue;
+    height: 400px;
+    border: 2px solid black;
+}
+
+.conteudo{
+    background-color: salmon;
+    width: 934px;
+    height: 400px;
+    box-sizing: border-box;
+    margin-left: 416px;
+    margin-top: -404px;
+    border: 1px solid black;
+}
+
+.footer{
+    background-color: green;
+    height: 50px;
+    margin-top: -14px;
+    border: 2px solid black;
+}
